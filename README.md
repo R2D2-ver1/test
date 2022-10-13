@@ -1,3 +1,5 @@
 # Hello, world!
 
-I study Python in Netology
+I study Python in Netology.
+
+GIT is great!
